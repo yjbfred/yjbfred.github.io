@@ -96,19 +96,23 @@ service-worker: true
 
 
 
-# Friends
+# 前端大全
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "阮一峰",
+        href: "http://www.ruanyifeng.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "张鑫旭",
+        href: "https://www.zhangxinxu.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "QDfuns",
+        href: "https://www.qdfuns.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "伯乐在线",
+        href: "http://web.jobbole.com/"
+    },
+    {
+        title: "segmentfault",
+        href: "https://segmentfault.com//"
     }
 ]
