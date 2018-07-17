@@ -1,10 +1,10 @@
 # Site settings
-title: XS Blog
-SEOTitle: 省身的博客 | XS Blog
+title: yjbfred Blog
+SEOTitle: yjbfred的博客
 header-img: img/post-bg-desk.jpg
-email: mangopudding@yeah.net
+email: yjbfred@163.co,
 description: "人过半生，方知天命。"
-keyword: "XS, XS Blog, 省身的博客, yixingshen, 伊省身, iOS, Apple, iPhone"
+keyword: "yjbfred,yjbfred Blog, 省身的博客, javascript,html,css"
 url: "http://yjbfred.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yjbfred/yjbfred.github.io.git" # you code repository
