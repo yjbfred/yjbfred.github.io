@@ -2,7 +2,7 @@
 title: yjbfred Blog
 SEOTitle: yjbfred的博客
 header-img: img/post-bg-desk.jpg
-email: yjbfred@163.co,
+email: yjbfred@163.com
 description: "人过半生，方知天命。"
 keyword: "yjbfred,yjbfred Blog, 省身的博客, javascript,html,css"
 url: "http://yjbfred.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/yjbfred/yjbfred.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我还只是个孩子!"
-sidebar-avatar: /img/avatar-BT.JPG    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -21,8 +21,8 @@ RSS: false
 # weibo_username:     yjbfred
 zhihu_username:     yjbfred
 github_username:    yjbfred
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+facebook_username:  
+jianshu_username:   时光释怀了记忆
 #twitter_username:   yjbfred
 
 
